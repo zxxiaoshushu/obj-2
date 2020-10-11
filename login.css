@@ -1,3 +1,6 @@
-body{
-    background-color: pink;
+*{
+    margin: 0;
+}
+div{
+    border: purple;
 }
